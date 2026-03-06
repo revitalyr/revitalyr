@@ -24,7 +24,7 @@ Active contributor to open-source projects in **Rust and C++**.
 | [DirectX9 DOF Shader Engine](https://github.com/revitalyr/Directx9_DOF_shader_with_custom_engine.git) | Custom DirectX9 rendering engine with depth-of-field post-processing; modular and performance-optimized | C++ |
 | [Electron Native Add-on](https://github.com/revitalyr/electron_native_add_on.git) | Cross-platform Rust integration with Electron; includes fault injection and recovery, unit tests, CI/CD | Rust, Node.js |
 | [DICOM PACS Integration Demo](https://github.com/revitalyr/DICOM_PACS_Integration.git) | High-performance medical image processing gateway for PACS integration | C#, C++ |
-| [Ethereum Boilerplate – Rust Edition]([#](https://github.com/revitalyr/nodejs_2_rust.git)) | Web3 boilerplate with high-performance type-safe Rust backend and WebAssembly frontend | Rust, WebAssembly |
+| [Ethereum Boilerplate – Rust Edition](https://github.com/revitalyr/nodejs_2_rust.git) | Web3 boilerplate with high-performance type-safe Rust backend and WebAssembly frontend | Rust, WebAssembly |
 
 > More projects pinned above for quick access.
 
