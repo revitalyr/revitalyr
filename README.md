@@ -25,8 +25,17 @@ Active contributor to open-source projects in **Rust and C++**.
 | [Electron Native Add-on](https://github.com/revitalyr/electron_native_add_on.git) | Cross-platform Rust integration with Electron; includes fault injection and recovery, unit tests, CI/CD | Rust, Node.js |
 | [DICOM PACS Integration Demo](https://github.com/revitalyr/DICOM_PACS_Integration.git) | High-performance medical image processing gateway for PACS integration | C#, C++ |
 | [Ethereum Boilerplate – Rust Edition](https://github.com/revitalyr/nodejs_2_rust.git) | Web3 boilerplate with high-performance type-safe Rust backend and WebAssembly frontend | Rust, WebAssembly |
-
-> More projects pinned above for quick access.
+| [Analyze Legacy Trading Engine](https://github.com/revitalyr/Analyze_Legacy_Trading_Engine.git) |Ultra High Performance C++ Order Book with Smart Pointer Architecture A modern C++20/26 trading engine capable of processing 5M+ orders/second per CPU core with complete memory safety and thread safety using smart pointers. | C++ |
+| [cpp orderbook](https://github.com/revitalyr/cpp_orderbook.git) | a financial "order book" in C++ (forked from [robaho/cpp_orderbook](https://github.com/robaho/cpp_orderbook)) | C++ |
+| [cpp fixed](https://github.com/revitalyr/cpp_fixed.git) | A fixed place numeric library designed for performance (forked from [robaho/cpp_fixed](https://github.com/robaho/cpp_fixed))| C++ |
+| [installer platform](https://github.com/revitalyr/installer-platform.git) | Multi-platform installer application built in Rust | Rust |
+| [stream data platform](https://github.com/revitalyr/stream-data-platform.git) | A high-performance, fault-tolerant streaming data ingestion platform built in Rust. Designed for processing millions of events per second with sub-second latency, supporting multiple data sources and lakehouse formats.  | Rust |
+| [Execution Velocity](https://github.com/revitalyr/ExecutionVelocity.git) | Execution Velocity Reporting System - A comprehensive .NET solution for tracking and analyzing ASIN workflow velocity, bottleneck detection, and performance metrics for Amazon sellers | C# |
+| [ignite cache service](https://github.com/revitalyr/ignite-cache-service.git) |High-performance distributed cache based on Apache Ignite 3.1.0 | C++ |
+| [rust sciter](https://github.com/revitalyr/rust-sciter.git) | Rust bindings for Sciter (forked from [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter)) | Rust |
+| [ast visitor](https://github.com/revitalyr/ast_visitor.git) | generalized version of [Baby steps with libclang: Walking an abstract syntax tree](https://bastian.rieck.me/blog/2015/baby_steps_libclang_ast/) | C++  |
+| [kaitai rust](https://github.com/revitalyr/kaitai_rust.git) | Runtime support library for [Kaitai structs](https://kaitai.io/) | Rust |
+| [soci](https://github.com/revitalyr/soci.git) | SOCI - The C++ Database Access Library (forked from [SOCI/soci](https://github.com/SOCI/soci)) |  |
 
 ---
 
