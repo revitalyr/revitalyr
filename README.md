@@ -21,6 +21,7 @@ Active contributor to open-source projects in **Rust and C++**.
 ## Highlight Projects
 | Project | Description | Tech |
 |--------|-------------|------|
+| [C++ Procedural Audio Mixing Engine (DSP)](https://github.com/revitalyr/cpp-audio-dsp-smart-mixer.git) | C++ Procedural Audio Mixing Engine (DSP) - Deterministic multi-layer audio mixing system implementing frequency-aware gain compensation, role-based layer weighting, LUFS loudness normalization, adaptive gain staging, transparent limiter, and real-time/offline rendering for procedural/generative audio systems. | C++ |
 | [DirectX9 DOF Shader Engine](https://github.com/revitalyr/Directx9_DOF_shader_with_custom_engine.git) | Custom DirectX9 rendering engine with depth-of-field post-processing; modular and performance-optimized | C++ |
 | [Electron Native Add-on](https://github.com/revitalyr/electron_native_add_on.git) | Cross-platform Rust integration with Electron; includes fault injection and recovery, unit tests, CI/CD | Rust, Node.js |
 | [DICOM PACS Integration Demo](https://github.com/revitalyr/DICOM_PACS_Integration.git) | High-performance medical image processing gateway for PACS integration | C#, C++ |
