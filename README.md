@@ -19,11 +19,11 @@ Active contributor to open-source projects in **Rust and C++**.
 ---
 ## Featured Expertise
 
-• High-performance C++ systems  
-• Low-latency trading infrastructure  
-• Audio DSP and signal processing  
-• Distributed streaming platforms  
-• Systems integration (medical, fintech, cybersecurity)
+- High-performance C++ systems  
+- Low-latency trading infrastructure  
+- Audio DSP and signal processing  
+- Distributed streaming platforms  
+- Systems integration (medical, fintech, cybersecurity)
 
 ---
 
