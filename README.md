@@ -35,15 +35,10 @@ Active contributor to open-source projects in **Rust and C++**.
 | [ignite cache service](https://github.com/revitalyr/ignite-cache-service.git) |High-performance distributed cache based on Apache Ignite 3.1.0 | C++ |
 | [rust sciter](https://github.com/revitalyr/rust-sciter.git) | Rust bindings for Sciter (forked from [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter)) | Rust |
 | [ast visitor](https://github.com/revitalyr/ast_visitor.git) | generalized version of [Baby steps with libclang: Walking an abstract syntax tree](https://bastian.rieck.me/blog/2015/baby_steps_libclang_ast/) | C++  |
-| [kaitai rust](https://github.com/revitalyr/kaitai_rust.git) | Runtime support library for [Kaitai structs](https://kaitai.io/) | Rust |
-| [soci](https://github.com/revitalyr/soci.git) | SOCI - The C++ Database Access Library (forked from [SOCI/soci](https://github.com/SOCI/soci)) |  |
-
----
-
-## Open-source Contributions
-- **ESE Parser Library** – Rust library for parsing ESE databases  
-- **SIDR** – Windows Search Index forensic analysis tool  
-- **Kaitai Struct Rust Runtime** – Binary data parsing runtime  
+| [Kaitai Struct Rust Runtime](https://github.com/kaitai-io/kaitai_struct_rust_runtime.git) | Runtime support library for [Kaitai structs](https://kaitai.io/) | Rust |
+| [ESE Parser Library](https://github.com/strozfriedberg/ese_parser.git) | Rust library for parsing ESE databases | Rust |
+| [SIDR](https://github.com/strozfriedberg/sidr.git) | Windows Search Index forensic analysis tool | Rust |
+| [soci](https://github.com/revitalyr/soci.git) | SOCI - The C++ Database Access Library (forked from [SOCI/soci](https://github.com/SOCI/soci)) | C++ |
 
 ---
 
