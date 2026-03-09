@@ -17,6 +17,15 @@ Active contributor to open-source projects in **Rust and C++**.
 - **Expertise:** System-level engineering, cross-platform development, high-performance & concurrent systems, modular design, unit testing, performance optimization
 
 ---
+## Featured Expertise
+
+• High-performance C++ systems  
+• Low-latency trading infrastructure  
+• Audio DSP and signal processing  
+• Distributed streaming platforms  
+• Systems integration (medical, fintech, cybersecurity)
+
+---
 
 ## Highlight Projects
 | Project | Description | Tech |
