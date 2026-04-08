@@ -1,61 +1,191 @@
-# Hi, I'm Vitalii Reshetiuk 👋
-**Senior Software Engineer & System Architect | Open-source Contributor**  
-📍 Kraków, Poland | 📧 vitaly.progs.out@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vitalii-reshetiuk/)
+# 👋 Vitalii Reshetiuk
+
+### Senior Software Engineer • System Architect • C++ / Rust
+
+📍 Poland  
+📧 vitaly.progs.out@gmail.com  
+🔗 https://www.linkedin.com/in/vitalii-reshetiuk/  
 
 ---
 
-## About Me
-Experienced developer with **40+ years in low-level programming, distributed systems, and high-performance computing**.  
-Passionate about building **robust, scalable, and testable software** across finance, cybersecurity, medical technology, and industrial automation.  
-Active contributor to open-source projects in **Rust and C++**.
+## 🚀 About Me
+
+Senior software engineer with **40+ years of experience** in:
+
+- ⚙️ Low-level & high-performance systems (C++, Rust)
+- 🧠 Distributed systems & architecture
+- 📡 Real-time processing (video, trading, streaming)
+- 🔐 Cybersecurity & forensic tooling
+- 🏥 Medical & industrial systems
+
+I specialize in building **production-grade, high-performance systems** where correctness, latency, and reliability matter.
 
 ---
 
-## Core Skills
-- **Languages:** C++, Rust, C#, Python
-- **Technologies & Tools:** Docker, CI/CD, GitHub Actions, PostgreSQL, SQLite, Boost, Qt, .NET  
-- **Expertise:** System-level engineering, cross-platform development, high-performance & concurrent systems, modular design, unit testing, performance optimization
+## 🧠 Core Expertise
 
----
-## Featured Expertise
-
-- High-performance C++ systems  
-- Low-latency trading infrastructure  
-- Audio DSP and signal processing  
-- Distributed streaming platforms  
-- Systems integration (medical, fintech, cybersecurity)
+- **Languages:** C++ (03–26), Rust, C#, Python  
+- **Systems:** Linux, Windows, macOS, embedded  
+- **Performance:** lock-free, low-latency, memory-safe architectures  
+- **Networking:** RTSP/RTP, WebRTC, custom binary protocols  
+- **Databases:** PostgreSQL, SQLite, Oracle  
+- **Tooling:** CMake, LLVM/Clang, GTest, Boost  
 
 ---
 
-## Highlight Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| [C++ Procedural Audio Mixing Engine (DSP)](https://github.com/revitalyr/cpp-audio-dsp-smart-mixer.git) | C++ Procedural Audio Mixing Engine (DSP) - Deterministic multi-layer audio mixing system implementing frequency-aware gain compensation, role-based layer weighting, LUFS loudness normalization, adaptive gain staging, transparent limiter, and real-time/offline rendering for procedural/generative audio systems. | C++ |
-| [DirectX9 DOF Shader Engine](https://github.com/revitalyr/Directx9_DOF_shader_with_custom_engine.git) | Custom DirectX9 rendering engine with depth-of-field post-processing; modular and performance-optimized | C++ |
-| [Electron Native Add-on](https://github.com/revitalyr/electron_native_add_on.git) | Cross-platform Rust integration with Electron; includes fault injection and recovery, unit tests, CI/CD | Rust, Node.js |
-| [DICOM PACS Integration Demo](https://github.com/revitalyr/DICOM_PACS_Integration.git) | High-performance medical image processing gateway for PACS integration | C#, C++ |
-| [Ethereum Boilerplate – Rust Edition](https://github.com/revitalyr/nodejs_2_rust.git) | Web3 boilerplate with high-performance type-safe Rust backend and WebAssembly frontend | Rust, WebAssembly |
-| [Analyze Legacy Trading Engine](https://github.com/revitalyr/Analyze_Legacy_Trading_Engine.git) |Ultra High Performance C++ Order Book with Smart Pointer Architecture A modern C++20/26 trading engine capable of processing 5M+ orders/second per CPU core with complete memory safety and thread safety using smart pointers. | C++ |
-| [cpp orderbook](https://github.com/revitalyr/cpp_orderbook.git) | a financial "order book" in C++ (forked from [robaho/cpp_orderbook](https://github.com/robaho/cpp_orderbook)) | C++ |
-| [cpp fixed](https://github.com/revitalyr/cpp_fixed.git) | A fixed place numeric library designed for performance (forked from [robaho/cpp_fixed](https://github.com/robaho/cpp_fixed))| C++ |
-| [installer platform](https://github.com/revitalyr/installer-platform.git) | Multi-platform installer application built in Rust | Rust |
-| [stream data platform](https://github.com/revitalyr/stream-data-platform.git) | A high-performance, fault-tolerant streaming data ingestion platform built in Rust. Designed for processing millions of events per second with sub-second latency, supporting multiple data sources and lakehouse formats.  | Rust |
-| [Execution Velocity](https://github.com/revitalyr/ExecutionVelocity.git) | Execution Velocity Reporting System - A comprehensive .NET solution for tracking and analyzing ASIN workflow velocity, bottleneck detection, and performance metrics for Amazon sellers | C# |
-| [ignite cache service](https://github.com/revitalyr/ignite-cache-service.git) |High-performance distributed cache based on Apache Ignite 3.1.0 | C++ |
-| [rust sciter](https://github.com/revitalyr/rust-sciter.git) | Rust bindings for Sciter (forked from [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter)) | Rust |
-| [ast visitor](https://github.com/revitalyr/ast_visitor.git) | generalized version of [Baby steps with libclang: Walking an abstract syntax tree](https://bastian.rieck.me/blog/2015/baby_steps_libclang_ast/) | C++  |
-| [Kaitai Struct Rust Runtime](https://github.com/kaitai-io/kaitai_struct_rust_runtime.git) | Runtime support library for [Kaitai structs](https://kaitai.io/) | Rust |
-| [ESE Parser Library](https://github.com/strozfriedberg/ese_parser.git) | Rust library for parsing ESE databases | Rust |
-| [SIDR](https://github.com/strozfriedberg/sidr.git) | Windows Search Index forensic analysis tool | Rust |
-| [soci](https://github.com/revitalyr/soci.git) | SOCI - The C++ Database Access Library (forked from [SOCI/soci](https://github.com/SOCI/soci)) | C++ |
+## 🔥 Featured Projects
+
+### 🤖 Low Latency AI Agent Platform
+👉 https://github.com/revitalyr/low_latency_ai_agent_platform
+
+- Rust-based execution core (5x–25x faster than Python)
+- Modular agent architecture
+- Designed for real-time AI workflows
 
 ---
 
-## How I Work
-- Focus on **unit testing, CI/CD, and modular architecture**  
-- Experienced in **cross-platform systems** (Windows, Linux, macOS, embedded)  
-- Solve **complex technical challenges** while optimizing for **performance, reliability, and maintainability**
+### 👶 Smart Monitor (IoT + Video + AI)
+👉 https://github.com/revitalyr/smart-monitor
+
+- Embedded Linux + V4L2 + GStreamer
+- Real-time motion detection (Rust)
+- WebRTC streaming + REST API
 
 ---
 
-Thanks for visiting my GitHub! 🚀  
+### 📡 High-Performance RTSP/RTP Streaming (C++)
+👉 [https://github.com/revitalyr/C_C-_Video_Streaming](https://github.com/revitalyr/C_C-_Video_Streaming.git)
+
+- Modern C++26 implementation
+- H.264 support + jitter buffer
+- Cross-platform real-time streaming
+
+---
+
+### 💹 Ultra Low-Latency Trading Engine
+👉 https://github.com/revitalyr/Low-Latency_Trading_Gateway
+
+- Lock-free data structures
+- Custom binary protocol
+- C++ core + Rust API
+- Millions of ops/sec
+
+---
+
+### 📊 Rust Crypto Exchange Core
+👉 https://github.com/revitalyr/rust_crypto_exchange_core
+
+- Matching engine
+- Risk management
+- Order book system
+
+---
+
+### 🔐 Zero Trust Secure Session Gateway
+👉 https://github.com/revitalyr/Zero_Trust_Secure_Session_Gateway
+
+- Modern C++23 architecture
+- Secure session management
+- CLI + Web interface
+
+---
+
+### 🎧 C++ Audio DSP Engine
+👉 https://github.com/revitalyr/cpp-audio-dsp-smart-mixer
+
+- Procedural audio mixing
+- LUFS normalization
+- Real-time + offline rendering
+
+---
+
+### 🏥 Personal Health OS (Rust)
+👉 https://github.com/revitalyr/Personal_Health_OS
+
+- EMR system
+- OCR + AI medical reports
+- Cross-platform architecture
+
+---
+
+### 🎥 DirectX Rendering Engine Demo
+👉 https://github.com/revitalyr/Directx9_DOF_shader_with_custom_engine
+
+- Depth of Field (DoF)
+- Custom rendering pipeline
+- Shader-based Gaussian blur
+
+---
+
+### 🧬 DICOM PACS Gateway
+👉 https://github.com/revitalyr/DICOM_PACS_Integration
+
+- Medical imaging integration
+- Healthcare-grade architecture
+
+---
+
+## ⚙️ Engineering Highlights
+
+- 🚀 5M+ orders/sec per core (C++ trading engine)
+- ⚡ 25x performance vs Python (Rust AI system)
+- 🧵 Lock-free & wait-free architectures
+- 🔄 Cross-platform systems (Windows/Linux/macOS)
+- 🧩 Complex FFI (Rust ↔ C++)
+
+---
+
+## 🧰 Open Source & Tools
+
+- 🔍 Symbol indexer for static libraries  
+  https://github.com/revitalyr/index_libs  
+
+- 🧠 AST visitor for code analysis  
+  https://github.com/revitalyr/ast_visitor  
+
+- 🏗️ Visual Studio project generator (C++23)  
+  https://github.com/revitalyr/gen_vcxproj  
+
+- 🔧 LLVM/Clang modern samples  
+  https://github.com/revitalyr/llvm-clang-samples  
+
+---
+
+## 💼 Experience Snapshot
+
+- **Aon Cyber Solutions / Stroz Friedberg**  
+  → Cybersecurity, forensics, osquery, Rust tooling  
+
+- **Enterprise Systems & Startups**  
+  → Trading, streaming, medical, distributed systems  
+
+- **Research & Industrial Systems**  
+  → Data mining, real-time monitoring, embedded  
+
+---
+
+## 🧪 Current Focus
+
+- High-performance Rust systems  
+- C++26 modern architectures  
+- AI + systems integration  
+- Low-latency distributed platforms  
+
+---
+
+## 🤝 Open to
+
+- Senior / Principal C++ roles  
+- Rust systems engineering  
+- Low-latency / HPC / trading  
+- Architecture & tech leadership  
+
+---
+
+## ⚡ Philosophy
+
+> Performance matters.  
+> Correctness matters more.  
+> Architecture decides everything.
+
+---
