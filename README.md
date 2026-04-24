@@ -1,191 +1,163 @@
-# 👋 Vitalii Reshetiuk
+# 🚀 Vitaly Reshetyuk
 
-### Senior Software Engineer • System Architect • C++ / Rust
-
-📍 Poland  
-📧 vitaly.progs.out@gmail.com  
-🔗 https://www.linkedin.com/in/vitalii-reshetiuk/  
+Senior C++ / Rust Engineer • Distributed Systems • Low-latency • Networking • FinTech
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-Senior software engineer with **40+ years of experience** in:
-
-- ⚙️ Low-level & high-performance systems (C++, Rust)
-- 🧠 Distributed systems & architecture
-- 📡 Real-time processing (video, trading, streaming)
-- 🔐 Cybersecurity & forensic tooling
-- 🏥 Medical & industrial systems
-
-I specialize in building **production-grade, high-performance systems** where correctness, latency, and reliability matter.
+- 💻 10+ years in systems programming (C++17/20/23, Rust)
+- ⚡ Focus: **low-latency systems, networking, distributed architecture**
+- 🔐 Strong background in **security, protocol design, and concurrency**
+- 🧩 Interested in **DEX, crypto infrastructure, autonomous systems**
 
 ---
 
-## 🧠 Core Expertise
+## 🔧 Tech Stack
 
-- **Languages:** C++ (03–26), Rust, C#, Python  
-- **Systems:** Linux, Windows, macOS, embedded  
-- **Performance:** lock-free, low-latency, memory-safe architectures  
-- **Networking:** RTSP/RTP, WebRTC, custom binary protocols  
-- **Databases:** PostgreSQL, SQLite, Oracle  
-- **Tooling:** CMake, LLVM/Clang, GTest, Boost  
+**Languages**
+- C++ (modern: 17–23)
+- Rust
+- Python (tools / prototyping)
 
----
+**Core Skills**
+- Multithreading & lock-free programming  
+- High-performance networking (TCP/UDP, async I/O)  
+- Systems design & architecture  
+- Memory optimization & profiling  
+- Protocol design (custom / binary / secure)
 
-## 🔥 Featured Projects
-
-### 🤖 Low Latency AI Agent Platform
-👉 https://github.com/revitalyr/low_latency_ai_agent_platform
-
-- Rust-based execution core (5x–25x faster than Python)
-- Modular agent architecture
-- Designed for real-time AI workflows
-
----
-
-### 👶 Smart Monitor (IoT + Video + AI)
-👉 https://github.com/revitalyr/smart-monitor
-
-- Embedded Linux + V4L2 + GStreamer
-- Real-time motion detection (Rust)
-- WebRTC streaming + REST API
+**Tools**
+- Linux, epoll, io_uring  
+- CMake, Make  
+- Docker  
+- gdb, perf, valgrind  
 
 ---
 
-### 📡 High-Performance RTSP/RTP Streaming (C++)
-👉 [https://github.com/revitalyr/C_C-_Video_Streaming](https://github.com/revitalyr/C_C-_Video_Streaming.git)
+## 📦 Featured Projects
 
-- Modern C++26 implementation
-- H.264 support + jitter buffer
-- Cross-platform real-time streaming
+### ⚡ DEX / Crypto / Distributed
 
----
+#### 🔹 rust_crypto_exchange_core
+High-performance crypto exchange core (Rust)
 
-### 💹 Ultra Low-Latency Trading Engine
-👉 https://github.com/revitalyr/Low-Latency_Trading_Gateway
+- Matching engine architecture  
+- Order book processing  
+- Designed for low-latency execution  
+- Extensible for DEX / CEX hybrid  
 
-- Lock-free data structures
-- Custom binary protocol
-- C++ core + Rust API
-- Millions of ops/sec
-
----
-
-### 📊 Rust Crypto Exchange Core
 👉 https://github.com/revitalyr/rust_crypto_exchange_core
 
-- Matching engine
-- Risk management
-- Order book system
+---
+
+#### 🔹 HTLC Simulation (Atomic Swaps)
+
+Hash Time Locked Contracts implementation
+
+- Hashlock / Timelock logic  
+- Redeem / Refund flows  
+- Cross-chain swap primitives  
+
+👉 (integrated into exchange core)
 
 ---
 
-### 🔐 Zero Trust Secure Session Gateway
-👉 https://github.com/revitalyr/Zero_Trust_Secure_Session_Gateway
+### 🌐 Networking / Systems
 
-- Modern C++23 architecture
-- Secure session management
-- CLI + Web interface
+#### 🔹 Secure_Remote_Agent
 
----
+Secure remote control agent (Windows / networking focus)
 
-### 🎧 C++ Audio DSP Engine
-👉 https://github.com/revitalyr/cpp-audio-dsp-smart-mixer
+- Encrypted communication  
+- Remote command execution  
+- Networking stack implementation  
+- Designed for enterprise / secure environments  
 
-- Procedural audio mixing
-- LUFS normalization
-- Real-time + offline rendering
+👉 https://github.com/revitalyr/Secure_Remote_Agent
 
 ---
 
-### 🏥 Personal Health OS (Rust)
-👉 https://github.com/revitalyr/Personal_Health_OS
+#### 🔹 Mini_SONiC
 
-- EMR system
-- OCR + AI medical reports
-- Cross-platform architecture
+Simplified network OS inspired by SONiC
 
----
+- Packet processing pipelines  
+- Switching logic  
+- Network abstraction layers  
 
-### 🎥 DirectX Rendering Engine Demo
-👉 https://github.com/revitalyr/Directx9_DOF_shader_with_custom_engine
-
-- Depth of Field (DoF)
-- Custom rendering pipeline
-- Shader-based Gaussian blur
+👉 https://github.com/revitalyr/Mini_SONiC
 
 ---
 
-### 🧬 DICOM PACS Gateway
-👉 https://github.com/revitalyr/DICOM_PACS_Integration
+### 🤖 Systems / Autonomy
 
-- Medical imaging integration
-- Healthcare-grade architecture
+#### 🔹 Mini_Autonomy_System
 
----
+Autonomous system simulation
 
-## ⚙️ Engineering Highlights
+- Modular architecture  
+- Decision pipeline  
+- Sensor → processing → action flow  
 
-- 🚀 5M+ orders/sec per core (C++ trading engine)
-- ⚡ 25x performance vs Python (Rust AI system)
-- 🧵 Lock-free & wait-free architectures
-- 🔄 Cross-platform systems (Windows/Linux/macOS)
-- 🧩 Complex FFI (Rust ↔ C++)
+👉 https://github.com/revitalyr/Mini_Autonomy_System
 
 ---
 
-## 🧰 Open Source & Tools
+### 🧬 Algorithms / Performance
 
-- 🔍 Symbol indexer for static libraries  
-  https://github.com/revitalyr/index_libs  
+#### 🔹 Genomic Engine (FASTQ + k-mer)
 
-- 🧠 AST visitor for code analysis  
-  https://github.com/revitalyr/ast_visitor  
+High-performance sequence processing
 
-- 🏗️ Visual Studio project generator (C++23)  
-  https://github.com/revitalyr/gen_vcxproj  
+- FASTQ parsing  
+- k-mer indexing  
+- Efficient search algorithms  
 
-- 🔧 LLVM/Clang modern samples  
-  https://github.com/revitalyr/llvm-clang-samples  
+👉 (code examples available on request / repo)
 
 ---
 
-## 💼 Experience Snapshot
+## 🏗️ Engineering Principles
 
-- **Aon Cyber Solutions / Stroz Friedberg**  
-  → Cybersecurity, forensics, osquery, Rust tooling  
-
-- **Enterprise Systems & Startups**  
-  → Trading, streaming, medical, distributed systems  
-
-- **Research & Industrial Systems**  
-  → Data mining, real-time monitoring, embedded  
+- ⚙️ Performance first (cache, memory, latency)
+- 🔍 Deep debugging over поверхностные fixes
+- 🧱 Clean architecture > quick hacks
+- 🔐 Security by design
+- 📈 Measurable improvements (benchmarks > assumptions)
 
 ---
 
-## 🧪 Current Focus
+## 📊 What I Build
 
-- High-performance Rust systems  
-- C++26 modern architectures  
-- AI + systems integration  
-- Low-latency distributed platforms  
-
----
-
-## 🤝 Open to
-
-- Senior / Principal C++ roles  
-- Rust systems engineering  
-- Low-latency / HPC / trading  
-- Architecture & tech leadership  
+- Matching engines  
+- Networking services  
+- Distributed systems  
+- Low-level infrastructure  
+- Simulation systems  
 
 ---
 
-## ⚡ Philosophy
+## 📫 Contact
 
-> Performance matters.  
-> Correctness matters more.  
-> Architecture decides everything.
+- GitHub: https://github.com/revitalyr  
+- Open to: **Senior C++ / Rust roles (EU / Remote)**  
 
 ---
+
+## ⚡ Current Focus
+
+- DEX architecture & atomic swaps  
+- Ultra low-latency systems  
+- Rust for high-performance infra  
+
+---
+
+## 🧩 Bonus
+
+If you're working on:
+- trading systems  
+- networking stacks  
+- distributed infra  
+
+→ let's talk.
